@@ -1,0 +1,4 @@
+问题描述：标签自动补全插件已经安装，某天按下tab键自动补全标签的功能突然失效了。
+解决方法：
+1、找到路径 file ==> Preferences ==>settings
+2、搜索tabs，选择Extensions里面的Emmet，将复选框的√打上就ok啦!
